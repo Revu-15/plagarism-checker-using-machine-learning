@@ -1,0 +1,8 @@
+opencv-python       # for cv2 - image processing
+numpy               # for numerical operations
+pillow              # for PIL image handling
+pytesseract          # OCR wrapper for Tesseract
+requests            # to fetch web pages
+beautifulsoup4       # for web scraping (BeautifulSoup)
+nltk                # for tokenization, stopwords, n-grams
+python-docx         # to read .docx files
